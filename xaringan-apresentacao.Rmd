@@ -215,5 +215,9 @@ knitr::include_graphics("img/ocssxt.JPG")
 # Como compartilhar a apresentação?
 - PDF
 ```r
-
+pagedown::chrome_print("xaringan-apresentacao.html")
 ```
+---
+# Como compartilhar a apresentação?
+- Disponibilizar online
+> Github
