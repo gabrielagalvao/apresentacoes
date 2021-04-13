@@ -220,4 +220,5 @@ pagedown::chrome_print("xaringan-apresentacao.html")
 ---
 # Como compartilhar a apresentação?
 - Disponibilizar online
+> Netlify
 > Github
