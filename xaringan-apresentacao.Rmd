@@ -4,6 +4,7 @@ author: "Grupo de estatística"
 date: "2021/06/04"
 output:
   xaringan::moon_reader:
+    css: ["temaagora.css"]
     lib_dir: libs
     nature:
       highlightStyle: github
@@ -208,7 +209,7 @@ knitr::include_graphics("img/xaringtheme.jpg")
 > Ninja themed presentation
 
 -Ele cria um .css
-```{r echo=FALSE}
+```{r echo=FALSE, out}
 knitr::include_graphics("img/ocssxt.JPG")
 ```
 ---
